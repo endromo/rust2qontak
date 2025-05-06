@@ -8,7 +8,7 @@ const MXP_CHANNEL_ID: &str = "2f0d4646-3d8b-4c5e-ab78-4d3249d27daf";
 #[tokio::main]
 async fn main() {
     let customer_name = "Endro";
-    let whatsapp_number = "82244604125";
+    let whatsapp_number = "85183111776";
 
     let namevalue = customer_name.to_uppercase();
     let message = namevalue.clone();
